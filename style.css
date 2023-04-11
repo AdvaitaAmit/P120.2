@@ -1,0 +1,28 @@
+body{
+    font-family: 'Manrope', sans-serif;
+}
+
+h1{
+    color: gray;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+  }
+
+.test_image_and_result,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+  margin-top: 15px;
+  border-radius: 10px;
+  width:100%;
+  margin-bottom: 15px;
+}
+
+#b1{
+  color: yellow;
+}
